@@ -2,6 +2,7 @@
 const stories = [
   '../src/**/*.stories.mdx',
   '../src/**/*.stories.@(js|jsx|ts|tsx)',
+  '@mono/app/src/**/*.stories.@(js|jsx|ts|tsx)',
 ];
 
 const addons = [
