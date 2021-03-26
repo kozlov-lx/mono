@@ -1,0 +1,14 @@
+{
+  "name": "@mono/eslint-config",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "eslint-config-airbnb-typescript": "^12.3.1",
+    "eslint-config-react-app": "^6.0.0"
+  }
+}
